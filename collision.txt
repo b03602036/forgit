@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-I'm in master!!
+I reset HEAD~2 in another branch and try to merge to master
 =======
 There is a collision about to happen.
 >>>>>>> collision
