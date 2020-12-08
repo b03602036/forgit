@@ -1,0 +1,1 @@
+I reset HEAD~2 in another branch and try to merge to master
